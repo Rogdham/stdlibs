@@ -7,6 +7,7 @@ from typing import FrozenSet
 
 module_names: FrozenSet[str] = frozenset(
     [
+        "",
         "CDIO",
         "CDROM",
         "DLFCN",
@@ -96,6 +97,7 @@ module_names: FrozenSet[str] = frozenset(
         "_posixsubprocess",
         "_py_abc",
         "_py_warnings",
+        "_pybuiltins",
         "_pydatetime",
         "_pydecimal",
         "_pyio",
