@@ -7,6 +7,7 @@ from typing import FrozenSet
 
 module_names: FrozenSet[str] = frozenset(
     [
+        "",
         "AL",
         "Audio_mac",
         "BaseHTTPServer",
@@ -187,6 +188,7 @@ module_names: FrozenSet[str] = frozenset(
         "_py_abc",
         "_py_warnings",
         "_pybsddb",
+        "_pybuiltins",
         "_pydatetime",
         "_pydecimal",
         "_pyio",
