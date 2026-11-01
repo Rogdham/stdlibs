@@ -27,5 +27,6 @@ KNOWN_VERSIONS: List[str] = [
     "3.13",
     "3.14",
     "3.15",
+    "3.16",
 ]
 """All supported Python major releases"""
